@@ -23,14 +23,15 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/myphoto.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Texas,USA"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "wanghhstb@gmail.com" 
+  name   : "Haihua Wang, Ph.D."
+  avatar : "/images/haihua.jpg"
+  bio    : "Postdoctoral Associate | Plant-Microbiome Interactions | Multi-omics | Bioinformatics"
+  location : "Texas Tech University, TX, USA"
+  employer : "Department of Plant & Soil Science"
+  email  : "wanghhstb@gmail.com"
+  googlescholar: "https://scholar.google.com/citations?user=8VR3ztsAAAAJ"
+  orcid: "https://orcid.org/0000-0002-7410-2064"
+  github: "https://github.com/NFREC-Liao-Lab/MicroFisher"
 
   # Academic websites
   academia         : # URL
