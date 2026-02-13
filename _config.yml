@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name   : "Haihua Wang, Ph.D."
-  avatar : "images/profile.png"
+  avatar: "https://haihuawang-hub.github.io/Profile/images/profile.png"
   bio    : "Postdoctoral Associate | Plant-Microbiome Interactions | Multi-omics | Bioinformatics"
   location : "Texas Tech University, TX, USA"
   employer : "Department of Plant & Soil Science"
