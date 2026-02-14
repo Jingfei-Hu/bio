@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jingfei Hu, Ph.D."
+title                    : "Haihua Wang, Ph.D."
 title_separator          : "-"
-name                     : &name "Jingfei Hu"
+name                     : &name "Haihua Wang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://github.com/Jingfei-Hu/bio/"  # https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://haihuawang-hub.github.io/Profile/"  # https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/bio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,20 +23,20 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name   : "Jingfei Hu, Ph.D."
-  avatar: "https://github.com/Jingfei-Hu/bio/images/profile.png"
-  bio    : "资深美食评论家 | 间歇性疲倦 | 天蝎座 | 女"
-  location : "东新大学, Korea"
-  employer : "暂时无业"
-  hujingfei518@gmail.com : 
-  googlescholar: "暂时没有"
-  orcid: "这是什么"
-  github: "https://github.com/Jingfei-Hu/"
+  name   : "Haihua Wang, Ph.D."
+  avatar: "https://haihuawang-hub.github.io/Profile/images/profile.png"
+  bio    : "Postdoctoral Associate | Plant-Microbiome Interactions | Multi-omics | Bioinformatics"
+  location : "Texas Tech University, TX, USA"
+  employer : "Department of Plant & Soil Science"
+  wanghhstb@gmail.com : 
+  googlescholar: "https://scholar.google.com/citations?user=8VR3ztsAAAAJ&hl=en"
+  orcid: "https://orcid.org/0000-0002-7410-2064"
+  github: "https://github.com/HaihuaWang-hub"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "这里添加网址"
+  googlescholar    : "https://scholar.google.com/citations?user=8VR3ztsAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
